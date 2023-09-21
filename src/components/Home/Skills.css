@@ -1,0 +1,10 @@
+.skills > h1{
+    margin: 3rem;
+}
+.skills > div{
+    width: 100%;
+    text-align: center;
+    margin: 1rem;
+    font-size: 7rem;
+    justify-content: space-between;
+}
