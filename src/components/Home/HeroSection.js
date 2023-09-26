@@ -59,7 +59,7 @@ function HeroSection() {
          }></div>
        </div>
           <h1 data-aos="slide-right" data-aos-duration="4000">I'M AYESHA MULLA</h1>
-          <p data-aos="slide-right" data-aos-duration="4000">FULL STACK DEVELOPER</p>
+          <p data-aos="slide-right" data-aos-duration="4000">SOFTWARE DEVELOPER</p>
           <div className='hero-btns'>
           <HashLink smooth to='/#contactPage' >
             <Button

@@ -54,7 +54,7 @@ function Cards() {
           <CardItem
               src='images/vr.png'
               text='VR Tour to the museum'
-              skills='C# · Virtual Reality (VR) · Unity · Databases'
+              skills='C# · Virtual Reality (VR) · Unity3D'
               gitlink = 'https://github.com/AyeshaMulla369/VRTourToMusem'
             />
             <CardItem
@@ -68,6 +68,20 @@ function Cards() {
               text='Chess Game'
               skills='Unity 2D . C#'
               gitlink = 'https://github.com/AyeshaMulla369/chessGame'
+            />
+          </ul>
+          <ul className='cards__items'>
+          <CardItem
+              src='images/main.png'
+              text='Restaurant Website'
+              skills='React.js · Firebase'
+              gitlink = 'https://github.com/AyeshaMulla369/RestaurantWebsite'
+            />
+            <CardItem
+              src='images/portfolio.png'
+              text='Portfolio Website'
+              skills='React.js'
+              gitlink = 'https://github.com/AyeshaMulla369/PortfolioReact'
             />
           </ul>
         </div>

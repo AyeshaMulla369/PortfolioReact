@@ -11,7 +11,7 @@ function CardItem(props) {
           <figure className='cards__item__pic-wrap'>
             <img
               className='cards__item__img'
-              alt='Travel Image'
+              alt='Cardsim'
               src={props.src}
             />
           </figure>
@@ -26,7 +26,7 @@ function CardItem(props) {
               buttonStyle='btn--outline--black'
               buttonSize='btn--medium'
               >
-              
+            
                 GITHUB
               
               </Button>
