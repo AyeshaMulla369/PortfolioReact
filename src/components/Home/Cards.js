@@ -25,7 +25,7 @@ function Cards() {
               text='Portfolio Website'
               skills='React.js'
               gitlink = 'https://github.com/AyeshaMulla369/PortfolioReact'
-              liveLink = 'https://curious-kringle-1f4072.netlify.app/'
+              liveLink = 'https://portfolio-react-sigma-eight.vercel.app/'
             />
             <CardItem 
               src='images/langlearn.png'
