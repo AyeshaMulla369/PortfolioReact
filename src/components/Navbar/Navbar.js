@@ -42,20 +42,20 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <HashLink
-                smooth to='/#proj'
+                smooth to='/experience'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Projects
+                Experience
               </HashLink>
             </li>
             <li className='nav-item'>
               <HashLink
-                smooth to='/#contactPage'
+                smooth to='/projects'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Contact
+                Projects
               </HashLink>
             </li>
 

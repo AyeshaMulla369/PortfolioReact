@@ -80,7 +80,7 @@
   .cursorfollow{
     width: 10px;
     height: 10px;
-    transition-delay: 19ms;
+    transition-delay: 10ms;
     background-color: #fff;
     position: fixed;
     border-radius: 50%;
